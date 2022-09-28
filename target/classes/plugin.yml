@@ -1,0 +1,8 @@
+name: SkillSystem
+version: '1.0'
+main: kalle.com.skillsystem.Main
+api-version: 1.19
+commands:
+  skills:
+    usage: /skills
+    description: Opens an Inventory that functions as GUI to buy skills or to toggle already bought skills.
