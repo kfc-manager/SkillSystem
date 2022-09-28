@@ -16,7 +16,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  */
 public final class Main extends JavaPlugin {
 
-    private SettingsConfig mobexp = new SettingsConfig(this); //settings.yml
+    private SettingsConfig settings = new SettingsConfig(this); //settings.yml
     private PlayerDataConfig playerdata = new PlayerDataConfig(this); //playerdata.yml
 
     //commands:
@@ -34,7 +34,7 @@ public final class Main extends JavaPlugin {
         }
 
         //set config files up
-        mobexp.setup();
+        settings.setup();
         playerdata.setup();
 
         //register Events:
