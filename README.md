@@ -2,7 +2,7 @@
 
 ## Features
 
-This plugin adds a skill system to the server. Every skill can be purchased with coins, which you will receive after killing a mob. With the command **/skills** you can open a gui in which you can overview all skills, purchase or enable/disable them. Each skill applys a permanent potion effect to the player. You can also make changes to the plugin with the configuration file **settings.yml**, which is used to make balance changes to the plugin (how much coins are dropped by a mob and how much a skill costs).
+This plugin adds a skill system to the server. Every skill can be purchased with coins, which you will receive after killing a mob. With the command **/skills** you can open a gui in which you can overview all skills, purchase or enable/disable them. Each skill applies a permanent potion effect to the player. You can also make changes to the plugin with the configuration file **settings.yml**, which is used to make balance changes to the plugin (how much coins are dropped by a mob and how much a skill costs).
 
 ## Installation
 
