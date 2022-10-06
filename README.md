@@ -6,7 +6,7 @@ This plugin adds a skill system to the server. Every skill can be purchased with
 
 ## Installation
 
-In the project folder "SkillSystem/target/" is a compiled .jar file, which you can simply drag in your plugins folder of your server. You can also directly download the .jar with this link: https://github.com/kfc-manager/SkillSystem/raw/main/target/SkillSystem-1.0.jar . Reload the server and the console should say: "SkillSystem has been enabled!". Also in your plugins folder should be a "SkillSystem" folder be generated, which holds two .yml files. It is recommended that you do not make changes to the playerdata.yml file. However sttings.yml serve a configuration purpose for the plugin (but it does not need to be configured, it has default settings). Follow the **Configuration** instructions below, if you want to make changes to the plugin.
+In the project folder "SkillSystem/target/" is a compiled .jar file, which you can simply drag in your plugins folder of your server. You can also directly download the .jar with this link: https://github.com/kfc-manager/SkillSystem/raw/main/target/SkillSystem-1.0.jar . Reload the server and the console should say: "SkillSystem has been enabled!". Also in your plugins folder should be a "SkillSystem" folder be generated, which holds two .yml files. It is recommended that you do not make changes to the playerdata.yml file. However settings.yml serve a configuration purpose for the plugin (but it does not need to be configured, it has default settings). Follow the **Configuration** instructions below, if you want to make changes to the plugin.
 
 ## Configuration
 
